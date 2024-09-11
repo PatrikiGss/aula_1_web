@@ -1,0 +1,16 @@
+/* h1{} = aplica a regra para todos os h1s por exemplo*/
+ /* #algo{} = aplica a regra para o id(para ids sempre usasse a #)*/
+ /* .css{} = aplica a regra para todos que possuem essa classe*/
+ .css {
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.geral {
+    background-color: rgb(148, 134, 134);
+}
+
+
